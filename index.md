@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Just a placeholder.
 
-I'm glad you are here. I plan to talk about ...
+I'm running through the [GitHub Lab](https://lab.github.com) exercise for GitHub Pages with my children, and it's a fun exercise!
